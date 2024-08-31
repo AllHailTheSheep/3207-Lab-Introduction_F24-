@@ -1,0 +1,4 @@
+# vscode settings
+.vscode
+# compiled c exes (windows)
+*.exe
